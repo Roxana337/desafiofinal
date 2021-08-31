@@ -1,0 +1,55 @@
+html{
+  background-color:rgb(15, 185, 180);
+   
+      } 
+  
+  h1{
+  font-style: italic;
+  text-align: center;
+  color:#111;
+     }
+     h2{
+      font-style: italic;
+      text-align: center;
+       color:white
+     } 
+     p {
+      color: rgb(48, 48, 80);
+      font-family:"arial"; 
+       font-size: 20px;
+       }
+
+       ol, ul, li
+       {
+        color:black;
+        font-family:"verdana";
+        font-size: 20px;
+        text-align:left;
+      }
+        table
+        {
+          width: 60px;
+        
+          border:10px solid #000;
+          border: radius 20px;
+          align: center;
+        color:white;
+         
+         }
+
+             tr{
+          width: 20%;
+    
+           } 
+             td {
+          width: 10%;
+          height: 10%;
+          vertical-align:top;
+          
+            }
+             table {
+          width: 60px;
+          border: 10 solid#000;
+          border-radius: 20px;
+
+            }
